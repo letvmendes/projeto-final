@@ -1,7 +1,7 @@
 # Desenvolvimento de Data Warehouse para auxiliar na avaliação da taxa de ocupação de berços nos terminais.
 
 #### Aluna: [Letícia Vasconcellos Mendes](https://github.com/letvmendes/projeto-final#projeto-final).
-#### Orientador: [Anderson Silva do Nascimento ]
+#### Orientador: Anderson Silva do Nascimento 
 
 ---
 
