@@ -7,20 +7,16 @@
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso 
 
-Os arquivos anexados são : 
-
-Descrição detalhada do projeto : Monografia.doc
-Modelo multidimensional : modelo_dw.architect
-Tratamento e transformação dos dados (ETL) : GeraDimEmbarcacao.ktr, GeraDimPontoAtracacao.ktr, Date Dimension Generator.ktr e GeraFatoPontoAtracacao.ktr.
-Análise de resultados (Dashboard) : projeto_PBI
-
-
-- [Link para o código](https://github.com/letvmendes/projeto-final/blob/main/modelo_dw.architect;
-                       https://github.com/letvmendes/projeto-final/blob/main/GeraDimEmbarcacao.ktr;
-		       https://github.com/letvmendes/projeto-final/blob/main/GeraDimPontoAtracacao.ktr;
-		       https://github.com/letvmendes/projeto-final/blob/main/GeraFatoPontoAtracacao.ktr;
-		       https://github.com/letvmendes/projeto-final/blob/main/Date Dimension Generator.ktr;
-		       https://github.com/letvmendes/projeto-final/blob/main/projeto_PBI.pbix). 
+- [Link para o Modelo multidimensional](https://github.com/letvmendes/projeto-final/blob/main/modelo_dw.architect)                     
+		       
+		      
+- [Link para Tratamento e transformação dos dados]
+                       (https://github.com/letvmendes/projeto-final/blob/main/GeraDimEmbarcacao.ktr)
+		       (https://github.com/letvmendes/projeto-final/blob/main/GeraDimPontoAtracacao.ktr)
+		       (https://github.com/letvmendes/projeto-final/blob/main/GeraFatoPontoAtracacao.ktr)
+		       (https://github.com/letvmendes/projeto-final/blob/main/DateDimensionGenerator.ktr)
+		       
+- [Link para a Análise de resultados (Dashboard)] (https://github.com/letvmendes/projeto-final/blob/main/projeto_PBI.pbix) 
 
 - [Link para a monografia](https://github.com/letvmendes/projeto-final/blob/main/Monografia.docx)
 
